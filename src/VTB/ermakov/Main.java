@@ -3,6 +3,6 @@ package VTB.ermakov;
 public class Main {
 
 	public static void main(String[] args) {
-		// write your code here
+		// writ1e your code here
 	}
 }
